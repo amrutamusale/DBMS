@@ -1,0 +1,5 @@
+C:\Users\sai\Documents\dot-net-training-cap1\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\sai\Documents\dot-net-training-cap1\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai\Documents\dot-net-training-cap1\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\sai\Documents\dot-net-training-cap1\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+C:\Users\sai\Documents\dot-net-training-cap1\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CoreCompileInputs.cache
