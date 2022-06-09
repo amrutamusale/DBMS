@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
@@ -8,6 +9,9 @@ namespace WebApplication4.Models
 {
     public partial class SampleDb1Context : DbContext
     {
+        internal readonly List<Employee> employeenew;
+        internal List<Employee> employee;
+
         public SampleDb1Context()
         {
         }
